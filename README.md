@@ -7,7 +7,7 @@ He construido un dashboard que sintetiza la realidad económica de Burundi en co
 
 ##  El Dashboard en Vivo
 
-[**Haz clic aquí para ver la aplicación desplegada**]([httpsS://TU-URL-DE-STREAMLIT.streamlit.app](https://burundi-vs-belgica-3aabescmv23p6usrz53miu.streamlit.app/))
+[**Haz clic aquí para ver la aplicación desplegada**](https://burundi-vs-belgica-3ahescwmqg9o6usr55mnw.streamlit.app)
 
 ## Contexto estructural del trabajo:
 El dashboard incluye un análisis interpretativo y un contexto histórico sobre la relación colonial entre ambos países para entender mejor las causas de la divergencia económica actual.
