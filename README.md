@@ -1,5 +1,5 @@
 # Burundi-vs-Belgica
-In this work, I compare the Burundian and Belgian economies in economic terms.
+En este trabajo comparo, en términos económicos, la economía Burundesa y la economía Belga.
 
 #  Dashboard: Comparativa Económica Burundi vs. Bélgica (2019-2023)
 
@@ -7,7 +7,7 @@ He construido un dashboard que sintetiza la realidad económica de Burundi en co
 
 ##  El Dashboard en Vivo
 
-[**App**](https://burundi-vs-belgica-3aabescmv23p6usrz53miu.streamlit.app/))
+[**App**](https://burundi-vs-belgica-3aabescmv23p6usrz53miu.streamlit.app/)
 
 ## Contexto estructural del trabajo:
 El dashboard incluye un análisis interpretativo y un contexto histórico sobre la relación colonial entre ambos países para entender mejor las causas de la divergencia económica actual.
